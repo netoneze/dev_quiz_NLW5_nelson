@@ -1,3 +1,4 @@
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 # DevQuiz
 
 A new Flutter project from what i've learned at NLW#05 in flutter app development.
